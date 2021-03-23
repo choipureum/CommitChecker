@@ -40,4 +40,7 @@
   - 보안 취약점 등의 민감한 이슈인 경우 poo1994.imbc.com 로 연락주십시오. 
 
 ## Testing
-
+### 윈도우 서비스 설정
+(https://user-images.githubusercontent.com/55127127/112115713-d6ff3100-8bfc-11eb-9c89-0163abe29aab.png)
+### SMS Test
+(https://user-images.githubusercontent.com/55127127/112115841-feee9480-8bfc-11eb-9326-6b5346a138d9.png)
