@@ -112,7 +112,11 @@ namespace Gitalarmi
             catch (Exception) { }
             return result;
         }
-
+        /// <summary>
+        /// 개똥아 commit 했니 오늘?
+        /// </summary>
+        /// <param name="username"></param>
+        /// <returns></returns>
         public bool CommitYN(string username)
         {
             //ids에서 username 출력 -> 모든 레포 뽑기
