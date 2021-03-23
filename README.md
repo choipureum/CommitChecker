@@ -32,7 +32,7 @@
 - 윈도우 프로세스 등록
 
 ## Contributing
-- Thanks to [@choipureum](https://github.com/choipureum)
+- [@choipureum](https://github.com/choipureum)
 
 ## Reference
 ```
