@@ -19,9 +19,9 @@
 - 설정값에 미치지 못하는 commit 수(default:1)일 경우, 자동으로 알람 메시지를 전송합니다. (단 컴퓨터가 실행 중이어야합니다.)
 
 ## 사용 How To Use
-'''csharp
-  using Twilio;
-  using Twilio.Rest.Api.V2010.Account;
+'''
+using Twilio;
+using Twilio.Rest.Api.V2010.Account;
 '''
   
 - 설정파일 변경(key.txt)
