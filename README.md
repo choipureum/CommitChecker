@@ -38,3 +38,6 @@
 - Repository: https://github.com/choipureum/CommitChecker
 - Issue tracker: https://github.com/choipureum/CommitChecker/issues
   - 보안 취약점 등의 민감한 이슈인 경우 poo1994.imbc.com 로 연락주십시오. 
+
+## Testing
+
