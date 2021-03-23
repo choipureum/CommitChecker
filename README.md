@@ -3,6 +3,9 @@
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/choipureum/CommitChecker/graphs/commit-activity) 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+> 매일매일 개발하구 
+> 매일매일 재미있게
+> 매일매일 커밋하쟝
 
 - 커밋 관련 자동화 체킹 알람 서비스 제공
 - github user의 오늘의 커밋을 확인합니다. 커밋되지 않았을 경우 사용자의 휴대폰 알람 메시지를 전송합니다. 
