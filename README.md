@@ -16,7 +16,7 @@
 - 설정값에 미치지 못하는 commit 수일 경우, 자동으로 알람 메시지를 전송합니다. (단 컴퓨터가 실행 중이어야합니다.)
 
 ## 사용 How To Use
-- 설정파일 변경
+- 설정파일 변경(key.txt)
   - 설정파일 예제(key.txt)에서 필요한 access_token값들, 설정등을 채워주세요
     - `{TWILIO_ACCOUNT_SID}` : twilio accout sid
     - `{TWILIO_AUTH_TOKEN}` : twilio auth token
