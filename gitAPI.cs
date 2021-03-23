@@ -1,4 +1,4 @@
-﻿using Newtonsoft.Json;
+using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using System;
 using System.Collections.Generic;
@@ -34,7 +34,7 @@ namespace Gitalarmi
             {
                 HttpWebRequest objWRequest = (HttpWebRequest)System.Net.WebRequest.Create("https://api.github.com/users/" + username + "/repos");
                 objWRequest.UserAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36";
-                //objWRequest.Headers.Add("Authorization", "Token:" + accessToken);
+                objWRequest.Headers.Add("Authorization", "Token:" + accessToken);
                 HttpWebResponse objWResponse = (HttpWebResponse)objWRequest.GetResponse();
                 Stream stream = objWResponse.GetResponseStream();
                 StreamReader reader = new StreamReader(stream);
@@ -66,7 +66,7 @@ namespace Gitalarmi
             try
             {
                 HttpWebRequest objWRequest = (HttpWebRequest)System.Net.WebRequest.Create("https://api.github.com/repos/" + repo + "/commits");
-                //objWRequest.Headers.Add("Authorization", "Token:" + accessToken);
+                objWRequest.Headers.Add("Authorization", "Token:" + accessToken);
                 objWRequest.UserAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36";
                 HttpWebResponse objWResponse = (HttpWebResponse)objWRequest.GetResponse();
                 Stream stream = objWResponse.GetResponseStream();
@@ -100,7 +100,7 @@ namespace Gitalarmi
             try
             {
                 HttpWebRequest objWRequest = (HttpWebRequest)System.Net.WebRequest.Create("https://api.github.com/repos/" + repo + "/commits");
-                //objWRequest.Headers.Add("Authorization", "Token:" + accessToken);
+                objWRequest.Headers.Add("Authorization", "Token:" + accessToken);
                 objWRequest.UserAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36";
                 HttpWebResponse objWResponse = (HttpWebResponse)objWRequest.GetResponse();
                 Stream stream = objWResponse.GetResponseStream();
@@ -191,6 +191,7 @@ namespace Gitalarmi
             }
             return null;
         }
+
         /// <summary>
         /// SMS 보내기
         /// </summary>
