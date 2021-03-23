@@ -1,0 +1,144 @@
+﻿어셈블리 'D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.exe'을(를) 설치하고 있습니다.
+영향을 받는 매개 변수:
+   logtoconsole = 
+   assemblypath = D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.exe
+   logfile = D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.InstallLog
+Service1 서비스를 설치하고 있습니다...
+EventLog 소스 Service1을(를) 로그 Application에 만들고 있습니다...
+어셈블리 'D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.exe'을(를) 롤백하고 있습니다.
+영향을 받는 매개 변수:
+   logtoconsole = 
+   assemblypath = D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.exe
+   logfile = D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.InstallLog
+이벤트 로그를 소스 Service1의 이전 상태로 복원하고 있습니다.
+어셈블리 'D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.exe'을(를) 설치하고 있습니다.
+영향을 받는 매개 변수:
+   logtoconsole = 
+   assemblypath = D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.exe
+   logfile = D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.InstallLog
+Service1 서비스를 설치하고 있습니다...
+Service1 서비스가 설치되었습니다.
+EventLog 소스 Service1을(를) 로그 Application에 만들고 있습니다...
+어셈블리 'D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.exe'을(를) 커밋하고 있습니다.
+영향을 받는 매개 변수:
+   logtoconsole = 
+   assemblypath = D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.exe
+   logfile = D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.InstallLog
+어셈블리 'D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.exe'을(를) 설치하고 있습니다.
+영향을 받는 매개 변수:
+   logtoconsole = 
+   assemblypath = D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.exe
+   logfile = D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.InstallLog
+Service1 서비스를 설치하고 있습니다...
+EventLog 소스 Service1을(를) 로그 Application에 만들고 있습니다...
+어셈블리 'D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.exe'을(를) 롤백하고 있습니다.
+영향을 받는 매개 변수:
+   logtoconsole = 
+   assemblypath = D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.exe
+   logfile = D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.InstallLog
+이벤트 로그를 소스 Service1의 이전 상태로 복원하고 있습니다.
+어셈블리 'D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.exe'을(를) 제거하고 있습니다.
+영향을 받는 매개 변수:
+   logtoconsole = 
+   assemblypath = D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.exe
+   logfile = D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.InstallLog
+EventLog 소스 Service1을(를) 제거하고 있습니다.
+System.Diagnostics.EventLogInstaller 설치 관리자 제거를 진행하는 동안 예외가 발생했습니다.
+System.Security.SecurityException: 요청한 레지스트리에 액세스할 수 없습니다.
+제거하는 동안 예외가 발생했습니다. 이 예외는 무시되고 제거가 계속됩니다. 그러나 제거가 완료된 후 해당 응용 프로그램이 완전히 제거되지 않았을 수도 있습니다.
+어셈블리 'D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.exe'을(를) 제거하고 있습니다.
+영향을 받는 매개 변수:
+   logtoconsole = 
+   assemblypath = D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.exe
+   logfile = D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.InstallLog
+EventLog 소스 Service1을(를) 제거하고 있습니다.
+System.Diagnostics.EventLogInstaller 설치 관리자 제거를 진행하는 동안 예외가 발생했습니다.
+System.Security.SecurityException: 요청한 레지스트리에 액세스할 수 없습니다.
+제거하는 동안 예외가 발생했습니다. 이 예외는 무시되고 제거가 계속됩니다. 그러나 제거가 완료된 후 해당 응용 프로그램이 완전히 제거되지 않았을 수도 있습니다.
+어셈블리 'D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.exe'을(를) 제거하고 있습니다.
+영향을 받는 매개 변수:
+   logtoconsole = 
+   assemblypath = D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.exe
+   logfile = D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.InstallLog
+EventLog 소스 Service1을(를) 제거하고 있습니다.
+시스템에서 Service1 서비스를 제거하고 있습니다...
+Service1 서비스가 시스템에서 제거되었습니다.
+어셈블리 'D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.exe'을(를) 설치하고 있습니다.
+영향을 받는 매개 변수:
+   logtoconsole = 
+   assemblypath = D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.exe
+   logfile = D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.InstallLog
+Service1 서비스를 설치하고 있습니다...
+EventLog 소스 Service1을(를) 로그 Application에 만들고 있습니다...
+어셈블리 'D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.exe'을(를) 롤백하고 있습니다.
+영향을 받는 매개 변수:
+   logtoconsole = 
+   assemblypath = D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.exe
+   logfile = D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.InstallLog
+이벤트 로그를 소스 Service1의 이전 상태로 복원하고 있습니다.
+System.Diagnostics.EventLogInstaller 설치 관리자의 Rollback 단계를 진행하는 동안 예외가 발생했습니다.
+System.Security.SecurityException: 소스를 찾을 수 없습니다. 일부 또는 전체 이벤트 로그를 검색하지 못했습니다. 액세스할 수 없는 로그: Security.
+설치의 Rollback 단계를 진행하는 동안 예외가 발생했습니다. 이 예외는 무시되고 롤백이 계속됩니다. 그러나 롤백이 완료된 후 컴퓨터를 초기 상태로 완전하게 되돌리지 못할 수 있습니다.
+어셈블리 'D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.exe'을(를) 설치하고 있습니다.
+영향을 받는 매개 변수:
+   logtoconsole = 
+   assemblypath = D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.exe
+   logfile = D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.InstallLog
+Service1 서비스를 설치하고 있습니다...
+Service1 서비스가 설치되었습니다.
+EventLog 소스 Service1을(를) 로그 Application에 만들고 있습니다...
+어셈블리 'D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.exe'을(를) 커밋하고 있습니다.
+영향을 받는 매개 변수:
+   logtoconsole = 
+   assemblypath = D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.exe
+   logfile = D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.InstallLog
+어셈블리 'D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.exe'을(를) 제거하고 있습니다.
+영향을 받는 매개 변수:
+   logtoconsole = 
+   logfile = D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.InstallLog
+   assemblypath = D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.exe
+EventLog 소스 Gitalarmi을(를) 제거하고 있습니다.
+System.Diagnostics.EventLogInstaller 설치 관리자 제거를 진행하는 동안 예외가 발생했습니다.
+System.Security.SecurityException: 소스를 찾을 수 없습니다. 일부 또는 전체 이벤트 로그를 검색하지 못했습니다. 액세스할 수 없는 로그: Security.
+제거하는 동안 예외가 발생했습니다. 이 예외는 무시되고 제거가 계속됩니다. 그러나 제거가 완료된 후 해당 응용 프로그램이 완전히 제거되지 않았을 수도 있습니다.
+어셈블리 'D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.exe'을(를) 제거하고 있습니다.
+영향을 받는 매개 변수:
+   logtoconsole = 
+   logfile = D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.InstallLog
+   assemblypath = D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.exe
+EventLog 소스 Gitalarmi을(를) 제거하고 있습니다.
+경고: 소스 Gitalarmi이(가) 로컬 컴퓨터에 등록되어 있지 않습니다.
+시스템에서 Gitalarmi 서비스를 제거하고 있습니다...
+System.ServiceProcess.ServiceInstaller 설치 관리자 제거를 진행하는 동안 예외가 발생했습니다.
+System.ComponentModel.Win32Exception: 지정된 서비스가 설치된 서비스로는 없습니다
+제거하는 동안 예외가 발생했습니다. 이 예외는 무시되고 제거가 계속됩니다. 그러나 제거가 완료된 후 해당 응용 프로그램이 완전히 제거되지 않았을 수도 있습니다.
+어셈블리 'D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.exe'을(를) 설치하고 있습니다.
+영향을 받는 매개 변수:
+   logtoconsole = 
+   logfile = D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.InstallLog
+   assemblypath = D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.exe
+Gitalarmi 서비스를 설치하고 있습니다...
+Gitalarmi 서비스가 설치되었습니다.
+EventLog 소스 Gitalarmi을(를) 로그 Application에 만들고 있습니다...
+어셈블리 'D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.exe'을(를) 커밋하고 있습니다.
+영향을 받는 매개 변수:
+   logtoconsole = 
+   logfile = D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.InstallLog
+   assemblypath = D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.exe
+어셈블리 'D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.exe'을(를) 제거하고 있습니다.
+영향을 받는 매개 변수:
+   logtoconsole = 
+   logfile = D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.InstallLog
+   assemblypath = D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.exe
+EventLog 소스 Gitalarmi을(를) 제거하고 있습니다.
+시스템에서 Gitalarmi 서비스를 제거하고 있습니다...
+Gitalarmi 서비스가 시스템에서 제거되었습니다.
+어셈블리 'D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.exe'을(를) 제거하고 있습니다.
+영향을 받는 매개 변수:
+   logtoconsole = 
+   assemblypath = D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.exe
+   logfile = D:\wwwroot\Gitalarmi\Gitalarmi\bin\Debug\Gitalarmi.InstallLog
+EventLog 소스 Gitalarmi을(를) 제거하고 있습니다.
+경고: 소스 Gitalarmi이(가) 로컬 컴퓨터에 등록되어 있지 않습니다.
+시스템에서 Gitalarmi 서비스를 제거하고 있습니다...
+Gitalarmi 서비스가 시스템에서 제거되었습니다.
