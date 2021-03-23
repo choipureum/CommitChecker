@@ -24,6 +24,8 @@
     - `{GITHUB_ACCESS_TOKEN}` : 깃헙 public acess_token 발급받은 뒤 설정
     - `{YOUR NAME}` : 이름
     - `{YOUR PHONE NUMBER}` : SMS를 받을 휴대폰 번호
+    
+- 윈도우 프로세스 등록
 
 ## Contributing
 - Thanks to [@choipureum](https://github.com/choipureum)
