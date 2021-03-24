@@ -1,5 +1,5 @@
 
-# ommitChecker
+# CommitChecker
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/choipureum/CommitChecker/graphs/commit-activity) 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
@@ -10,7 +10,7 @@
 - 커밋 관련 자동화 체킹 알람 서비스 제공
 - github user의 오늘의 커밋을 확인합니다. 커밋되지 않았을 경우 사용자의 휴대폰 알람 메시지를 전송합니다. 
 - 꾸준한 1일 1커밋 프로젝트에 기여하는 습관을 기르기 위한 도우미입니다. 
-  - 본 프로그램은 wilio 서비스 특성상 문자메시지 trial account 한계 balance 내에서만 사용 가능합니다.
+  - 본 프로그램은 twilio 서비스 특성상 문자메시지 trial account 한계 balance 내에서만 사용 가능합니다.
   - 본 프로그램은 윈도우 서비스로 프로세스 등록시 자동으로 실행되며 자정(24:00)전 1시간전에 커밋을 확인 후 SMS를 전송합니다.
 
 ## 핵심 기능  Key Feature
